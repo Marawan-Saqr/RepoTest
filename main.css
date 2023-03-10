@@ -3,5 +3,10 @@ h1{
   font-size: 15px;
   background-color: blue;
   position: relative;
+<<<<<<< HEAD
   box-shadow: 1px 1px 1px 1px blackk;
+=======
+  font-style: italic;
+  box-shadow: 1px 1px 1px 1px black;
+>>>>>>> ad0d9a5dfbe9d05680c9af32e6ebc550782fdfac
 }
