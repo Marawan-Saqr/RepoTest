@@ -1,6 +1,7 @@
 h1{
   color: red;
   font-size: 15px;
-background-color: blue;
-position: relative;
+  background-color: blue;
+  position: relative;
+  font-style: italic;
 }
